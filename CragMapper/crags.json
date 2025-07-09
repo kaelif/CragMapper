@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "name": "Yosemite Valley",
+      "latitude": 37.7335,
+      "longitude": -119.6376,
+      "popularity": 10
+    },
+    {
+      "id": "2",
+      "name": "Red River Gorge",
+      "latitude": 37.7694,
+      "longitude": -83.6819,
+      "popularity": 9
+    }
+  ]
